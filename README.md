@@ -1,2 +1,2 @@
-# template
-Namespace project for template repositories
+# templates
+Holding project for templates repositories
