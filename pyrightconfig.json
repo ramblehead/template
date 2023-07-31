@@ -1,0 +1,31 @@
+{
+  "include": [
+    "utils/poetry_utils"
+  ],
+
+  "exclude": [
+    "**/__pycache__",
+    "**/.*"
+  ],
+
+  "useLibraryCodeForTypes": true,
+  "typeCheckingMode": "strict",
+  // "typeshedPath": "external/typeshed",
+
+  "reportMissingTypeStubs": "warning",
+  "reportUnknownMemberType": "warning",
+  "reportUnknownArgumentType": "warning",
+  "reportUnknownVariableType": "warning",
+  "reportGeneralTypeIssues": "warning",
+  // "reportUnknownParameterType": "warning",
+  // "reportUnknownLambdaType": "warning",
+  // "reportMissingTypeArgument": "warning",
+  // "reportInvalidTypeVarUse": "warning",
+  // "reportUnusedImport": "warning",
+  // "reportUnusedClass": "warning",
+  // "reportUnusedFunction": "warning",
+  // "reportUnusedVariable": "warning",
+
+  "pythonVersion": "3.11",
+  "pythonPlatform": "Linux"
+}
