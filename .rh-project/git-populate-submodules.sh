@@ -1,4 +1,5 @@
 #!/bin/bash
+# Hey Emacs, this is -*- coding: utf-8; mode: python -*-
 
 set -eu
 set -o pipefail
