@@ -6,7 +6,7 @@ authors = ["ramblehead <v.rybynok@gmail.com>"]
 readme = "README.md"
 packages = [
   { include = "poetry_utils", from = "utils" },
-  { include = "templates/conan-poetry/rh-template/**/*.py" },
+  { include = "templates/**/*.py" },
 ]
 
 [tool.poetry.scripts]
