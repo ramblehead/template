@@ -1,3 +1,6 @@
 [submodule "templates/conan-poetry"]
 	path = templates/conan-poetry
 	url = git@github.com:ramblehead/templates-conan-poetry.git
+[submodule "templates/poetry-pyside-starter"]
+	path = templates/poetry-pyside-starter
+	url = git@github.com:ramblehead/templates-poetry-pyside-starter.git
