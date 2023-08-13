@@ -4,3 +4,6 @@
 [submodule "templates/poetry-pyside-starter"]
 	path = templates/poetry-pyside-starter
 	url = git@github.com:ramblehead/templates-poetry-pyside-starter.git
+[submodule "templates/templates-leetcode-cpp"]
+	path = templates/templates-leetcode-cpp
+	url = git@github.com:ramblehead/templates-leetcode-cpp.git
